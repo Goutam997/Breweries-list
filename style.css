@@ -1,0 +1,37 @@
+.heading-container{
+    text-align: center;
+    margin: auto;
+    padding: 2rem;
+    font-weight: bold;
+    background: linear-gradient(rgba(190, 17, 17, 0.829) 10%, 30%, rgba(209, 73, 73, 0.37) 90%);
+}
+.main-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: left;
+    gap: 1rem;
+    padding: 0.5rem;
+    margin: 0 auto;
+    background-color: rgba(209, 73, 73, 0.37);
+}
+.container {
+    background-color: rgba(250, 245, 245, 0.466);
+    padding: 1rem;
+    border-radius: 10px;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    gap: 0.5rem;
+  }
+  button a{
+      text-decoration: none;
+  }
+  table{
+    background: transparent;
+    background-color: rgba(209, 73, 73, 0.37);
+  }
+
+  /* tr, td {
+    background-color: rgba(209, 73, 73, 0.37);
+  } */
