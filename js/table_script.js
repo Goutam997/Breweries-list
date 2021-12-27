@@ -5,7 +5,7 @@ document.body.innerHTML = `<div class="heading-container onload="createTable()">
 <br><br>
 <div  id="display-type" class="btn-group" role="group" aria-label="Display Type">
   <button type="button" id="tab_btn" class="btn btn-outline-light"><a href="index.html">Tab</a></button>
-  <button type="button" id="table_btn" class="btn btn-dark"><a href="html/tables_index.html">Table</a></button>
+  <button type="button" id="table_btn" class="btn btn-dark"><a href="tables_index.html">Table</a></button>
 </div>
 </div>`;
 
