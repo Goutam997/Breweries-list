@@ -4,8 +4,8 @@ document.body.innerHTML = `<div class="heading-container onload="createTable()">
 <img class="icon" src="https://previews.123rf.com/images/volff/volff1803/volff180300057/97123664-glasses-of-beer-and-ale-barrel-on-the-wooden-table-craft-brewery-.jpg" width="200px" height="120px" lt="Brewery image">
 <br><br>
 <div  id="display-type" class="btn-group" role="group" aria-label="Display Type">
-  <button type="button" id="tab_btn" class="btn btn-outline-light"><a href="index.html">Tab</a></button>
-  <button type="button" id="table_btn" class="btn btn-dark"><a href="tables_index.html">Table</a></button>
+  <button type="button" id="tab_btn" class="btn btn-outline-light"><a href="html/index.html">Tab</a></button>
+  <button type="button" id="table_btn" class="btn btn-dark"><a href="html/tables_index.html">Table</a></button>
 </div>
 </div>`;
 
